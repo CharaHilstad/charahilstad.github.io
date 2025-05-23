@@ -20,7 +20,15 @@ h3 {
 	color: #ffc7f4;
 	font-family: consolas;
 }
-a {
-	color: #ffc7f4;
+a:link {
+	color: #6df3f7;
+	font-family: consolas;	
+}
+a:visited {
+	color: #be69ff;
+	font-family: consolas;	
+}
+a:active {
+	color: #3dffdf;
 	font-family: consolas;	
 }
