@@ -4,15 +4,19 @@ body {
 }
 p {
   color: #ffc7f4;
+  font-family: consolas;
 }
 h1 {
   font-weight: bold;
   color: #ffc7f4;
+  font-family: consolas;
 }
 h2 {
   font-weight: bold;
   color: #ffc7f4;
+  font-family: consolas;
 }
 h3 {
 	color: #ffc7f4;
+	font-family: consolas;
 }
