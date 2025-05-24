@@ -36,5 +36,4 @@ p {
 	color: #ffc7f4;
 	font-family: consolas;
 }
-margin-top: 1000px;
-margin-left: 1000px;
+margin: 1000px, 1000px, 1000px, 1000px;
