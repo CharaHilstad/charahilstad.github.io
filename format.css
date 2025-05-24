@@ -36,7 +36,7 @@ p {
 	color: #ffc7f4;
 	font-family: consolas;
 }
-.padding-style {
-		padding-top: 500px;
-		padding-left: 1000px;
+
+html {
+	padding: 500px;
 }
