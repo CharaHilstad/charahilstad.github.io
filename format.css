@@ -36,4 +36,6 @@ p {
 	color: #ffc7f4;
 	font-family: consolas;
 }
-margin: 1000px, 1000px, 1000px, 1000px;
+body: {
+	margin: 1000px, 1000px, 1000px, 1000px;
+}
