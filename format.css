@@ -36,3 +36,6 @@ p {
 	color: #ffc7f4;
 	font-family: consolas;
 }
+.padding-style {
+		padding: 50px;
+}
